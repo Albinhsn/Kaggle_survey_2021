@@ -1,0 +1,50 @@
+What is your age (# years)?
+What is your gender?
+In which country do you currently reside?
+What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
+Select the title most similar to your current role (or most recent title if retired):
+For how many years have you been writing code and/or programming?
+What programming languages do you use on a regular basis? (Select all that apply)
+What programming language would you recommend an aspiring data scientist to learn first?
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply)
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply)
+What type of computing platform do you use most often for your data science projects?
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply)
+Approximately how many times have you used a TPU (tensor processing unit)?
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply)
+For how many years have you used machine learning methods?
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply)
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply):
+Which categories of computer vision methods do you use on a regular basis?  (Select all that apply)
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply)
+In what industry is your current employer/contract (or your most recent employer if retired)?
+What is the size of the company where you are employed?
+Approximately how many individuals are responsible for data science workloads at your place of business?
+Does your current employer incorporate machine learning methods into their business?
+Select any activities that make up an important part of your role at work: (Select all that apply)
+What is your current yearly compensation (approximate $USD)?
+Approximately how much money have you (or your team) spent on machine learning and/or cloud computing services at home (or at work) in the past 5 years (approximate $USD)?
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply)
+Of the cloud platforms that you are familiar with, which has the best developer experience (most enjoyable to use)?
+Do you use any of the following cloud computing products on a regular basis? (Select all that apply)
+Do you use any of the following data storage products on a regular basis? (Select all that apply)
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply)
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply)
+Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply)
+Which of the following business intelligence tools do you use most often?
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply)
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply)
+Do you use any tools to help manage machine learning experiments? (Select all that apply)
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply)
+On which platforms have you begun or completed data science courses? (Select all that apply)
+What is the primary tool that you use at work or school to analyze data? (Include text response)
+Who/what are your favorite media sources that report on data science topics? (Select all that apply)
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years?
+In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply)
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply)
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply)
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply)
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply)
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply)
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply)
