@@ -1,12 +1,3 @@
-What is your age (# years)?
-What is your gender?
-In which country do you currently reside?
-What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
-Select the title most similar to your current role (or most recent title if retired):
-For how many years have you been writing code and/or programming?
-What programming languages do you use on a regular basis? (Select all that apply)
-What programming language would you recommend an aspiring data scientist to learn first?
-Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply)
 Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply)
 What type of computing platform do you use most often for your data science projects?
 Which types of specialized hardware do you use on a regular basis?  (Select all that apply)
